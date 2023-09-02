@@ -1,1 +1,1 @@
-# Landing-page-2
+This is the basic landing page using html and CSS
